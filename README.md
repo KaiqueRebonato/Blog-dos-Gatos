@@ -12,7 +12,7 @@ Projeto utilizando os principios do display grid. Utilização de animações e 
   <img src="./.github/preview.png" width="100%">
 </p>
 
- <h2 align="center"><a href="https://kaiquerebonato.github.io/Desafio-02/" target="_blank">Projeto ao vivo</a></h2>
+ <h2 align="center"><a href="https://kaiquerebonato.github.io/Blog-dos-Gatos/" target="_blank">Projeto ao vivo</a></h2>
 
 ### 🚀 Tecnologias
 
